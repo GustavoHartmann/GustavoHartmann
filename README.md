@@ -1,7 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
-**GustavoHartmann/GustavoHartmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,7 +9,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: 
 - ⚡ Fun fact: ...
 -->
+ ### My github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GustavoHartmann&show_icons=true&theme=gotham" alt="GustavoHartmann" />
